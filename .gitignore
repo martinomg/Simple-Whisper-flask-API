@@ -2,6 +2,7 @@ uploads/*
 !uploads/.gitkeep
 res/*
 !res/.gitkeep
+!samples/.gitkeep
 __pycache__
 *.js
 .DS_Store
