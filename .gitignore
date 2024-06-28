@@ -1,0 +1,7 @@
+uploads/*
+!uploads/.gitkeep
+res/*
+!res/.gitkeep
+__pycache__
+*.js
+.DS_Store
